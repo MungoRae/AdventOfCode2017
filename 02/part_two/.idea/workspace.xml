@@ -16,8 +16,8 @@
       <file leaf-file-name="main.rs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="15" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -286,8 +286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="1" />
           <folding />
         </state>
       </provider>
