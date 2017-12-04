@@ -1,0 +1,1 @@
+{"rustc":8291033049748019918,"features":"[]","target":11232776766544936510,"profile":731176819336294830,"deps":[["regex v0.2.3",4913019071561631892]],"local":[{"MtimeBased":[[1512416701,825441582],"/Users/alexmacrae/RustProjects/AdventOfCode/04/part_two/target/debug/.fingerprint/part_two-a7637b1f66dc57d5/dep-bin-part_two-a7637b1f66dc57d5"]}],"rustflags":[]}
