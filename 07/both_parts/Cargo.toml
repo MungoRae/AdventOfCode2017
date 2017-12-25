@@ -1,0 +1,8 @@
+[package]
+name = "both_parts"
+version = "0.1.0"
+authors = ["Alex Macrae <a.macrae@waracle.com>"]
+
+[dependencies]
+regex = "0.2"
+lazy_static = "1.0.0"
